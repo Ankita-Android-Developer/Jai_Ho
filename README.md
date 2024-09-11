@@ -1,6 +1,6 @@
 # Jai_Ho
 Android App
 <br>
-# Author:-
+Author:-
 <br>
 Ankita Satdeve
